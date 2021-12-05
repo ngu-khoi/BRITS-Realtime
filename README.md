@@ -1,9 +1,10 @@
 # Description
 The source codes of RITS-I, RITS, BRITS-I, BRITS for health-care data imputation/classification
+Additionally contains realtime implementation and future imputation of patient health data
 
 To run the code:
 
-python main.py --epochs 1000 --batch_size 32 --model brist
+python main.py --epochs 1000 --batch_size 32 --model brits
 py main.py --epochs 1 --batch_size 32 --model brits
 
 # Data Format
