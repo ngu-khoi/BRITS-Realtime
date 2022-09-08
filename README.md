@@ -1,4 +1,7 @@
 # Description
+
+Khoi's notes: This was a project where we validated that the BRITS model actually worked (seems like it did after signficant debugging) and we attempted to perform the imputations and predictions in a realtime manner. i.e. given window x can we forecast data and predict patient survivability. The rest of the README is from the model's authors' repo.
+
 The source codes of RITS-I, RITS, BRITS-I, BRITS for health-care data imputation/classification
 Additionally contains realtime implementation and future imputation of patient health data
 
